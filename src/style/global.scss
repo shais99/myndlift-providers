@@ -1,0 +1,20 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/links.scss";
+@import "basics/buttons.scss";
+
+// Components
+
+@import "cmps/Header.scss";
+@import "cmps/Search.scss";
+@import "cmps/ProvidersNotFound.scss";
+@import "cmps/ProvidersList.scss";
+
+@import "cmps/ProviderContact.scss";
