@@ -1,3 +1,7 @@
+## Prerequisites
+
+Clone [this](https://github.com/shais99/myndlift-providers) repository.
+
 ## Available Scripts
 
 In the project directory, you can run:
